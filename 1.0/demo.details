@@ -1,0 +1,14 @@
+/*
+---
+name: Request.HTML - jsFiddle/Github integration demo of JsRTS
+description: Demo
+authors:
+  - GG
+resources:
+  - https://cdnjs.cloudflare.com/ajax/libs/raphael/2.1.4/raphael-min.js
+normalize_css: yes
+lang_css: SCSS
+...
+*/
+
+<p>Test.</p> 
